@@ -1,0 +1,16 @@
+{
+  "series": [
+    {
+      "id": "Ordeal",
+      "title": "Ordea",
+      "path": "Ordea/chapter-112",
+      "chapters": [
+        {
+          "id": "chapter-112",
+          "title": "chapter112",
+          "path": "chapter-112"
+        }
+      ]
+    }
+  ]
+}
